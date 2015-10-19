@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\deivi\documents\visual studio 2015\projects\appwithmap\appwithmap\obj\debug\intermediatexaml\appwithmap.exe" HashGuid="062c1558-e45a-2939-ab70-0c21ba6eb483" />
+    <ReferenceAssembly PathName="c:\users\deivi\documents\visual studio 2015\projects\appwithmap\packages\xaml.mapcontrol.2.5.1\lib\wpa81\mapcontrol.winrt.dll" HashGuid="7a80326e-4bed-5273-5016-4d989bf4bc58" />
+    <ReferenceAssembly PathName="c:\users\deivi\documents\visual studio 2015\projects\appwithmap\packages\system.device.location.portable.1.0.0\lib\system.device.portable.dll" HashGuid="d4789cfd-652c-7c42-3c38-d5c650ba77d0" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

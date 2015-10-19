@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEIVI-PC</Machine>
+    <WindowsUser>Deivi</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6e528ca7-9707-4bbd-a522-bf7566aa55cf</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\bin\Debug\AppWithMap.exe">
+      <PackagePath>AppWithMap.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\packages\XAML.MapControl.2.5.1\lib\wpa81\MapControl.WinRT.dll">
+      <PackagePath>MapControl.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\packages\System.Device.Location.Portable.1.0.0\lib\System.Device.Portable.dll">
+      <PackagePath>System.Device.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\bin\Debug\AppWithMap.xr.xml">
+      <PackagePath>AppWithMap.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\packages\XAML.MapControl.2.5.1\lib\wpa81\MapControl.WinRT\MapControl.WinRT.xr.xml">
+      <PackagePath>MapControl.WinRT\MapControl.WinRT.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\packages\XAML.MapControl.2.5.1\lib\wpa81\MapControl.WinRT\Themes\Generic.xbf">
+      <PackagePath>MapControl.WinRT\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivi\Documents\Visual Studio 2015\Projects\AppWithMap\AppWithMap\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

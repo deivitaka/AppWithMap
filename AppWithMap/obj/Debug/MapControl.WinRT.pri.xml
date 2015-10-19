@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="MapControl.WinRT" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="MapControl.WinRT">
+				<NamedResource name="MapControl.WinRT.xr.xml" uri="ms-resource://MapControl.WinRT/Files/MapControl.WinRT/MapControl.WinRT.xr.xml">
+					<Candidate type="Path">
+						<Value>MapControl.WinRT\MapControl.WinRT.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://MapControl.WinRT/Files/MapControl.WinRT/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>MapControl.WinRT\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
